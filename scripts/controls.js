@@ -89,14 +89,6 @@ function success(pos) {
             }
         });
 
-        // weatherStatus = document.getElementsByClassName('container');
-        // if (weatherStatusCodesArray[0][0] === weatherDescriptionFetched || weatherDescriptionFetched === weatherStatusCodesArray[0][1] || weatherDescriptionFetched === weatherStatusCodesArray[0][2] || weatherDescriptionFetched === weatherStatusCodesArray[0][3]) {
-        // container.addClass(weather[0].type);
-        // };
-        // console.log(weatherStatus);
-
-        // console.log(currentWeather);
-        // console.log(weather);
 
 
 
