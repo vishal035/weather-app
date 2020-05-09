@@ -1,0 +1,23 @@
+{
+  "name": "weather-web-app",
+  "version": "1.0.0",
+  "description": "A weather web app.. To tell you about the current weather status acording to your current location and search inputs..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishal035/Weather__App.git"
+  },
+  "keywords": [
+    "Weather",
+    "App"
+  ],
+  "author": "Vishal Kumar",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vishal035/Weather__App/issues"
+  },
+  "homepage": "https://github.com/vishal035/Weather__App#readme"
+}
